@@ -1,0 +1,7 @@
+*.session
+*.session-journal
+.env
+venv/
+*.png
+*.xml
+*.iml
